@@ -22,7 +22,8 @@ It explicitly frames itself as a conversation-starter with a parent, teacher, or
 
 ## Why I built it
 
-I have a background in HR business partnering, workforce planning, and organizational psychology (15+ years across pharma and telecom), plus volunteer experience with ASHA for Education and Team Everest. This project sits at the intersection of that experience and a genuine gap I kept seeing: kids making irreversible academic decisions with almost no structured guidance.
+I have a background in HR business partnering, workforce planning, and organizational psychology (15+ years across pharma and telecom), plus volunteer experience. This project sits at the intersection of that experience and a genuine gap I kept seeing: kids making irreversible academic decisions with almost no structured guidance.
+I built it using claude.
 
 ## How it's built
 
